@@ -1,0 +1,32 @@
+{
+  "shot": {
+    "subtitles": "sounds.epicmoonmod.shot",
+    "sounds": [
+      "epicmoonmod:shot"
+    ]
+  },
+  "shot2": {
+    "subtitles": "sounds.epicmoonmod.shot2",
+    "sounds": [
+      "epicmoonmod:shot2"
+    ]
+  },
+  "shot3": {
+    "subtitles": "sounds.epicmoonmod.shot3",
+    "sounds": [
+      "epicmoonmod:shot3"
+    ]
+  },
+  "shot4": {
+    "subtitles": "sounds.epicmoonmod.shot4",
+    "sounds": [
+      "epicmoonmod:shot4"
+    ]
+  },
+  "reload1": {
+    "subtitles": "sounds.epicmoonmod.reload1",
+    "sounds": [
+      "epicmoonmod:reload1"
+    ]
+  }
+}
