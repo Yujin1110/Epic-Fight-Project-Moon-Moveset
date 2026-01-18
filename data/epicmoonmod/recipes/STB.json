@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "epicmoonmod:thumb_gunpowder"
+        },
+        {
+            "item": "epicmoonmod:thumb_gunpowder"
+        },
+        {
+            "item": "epicmoonmod:cartridge_case"
+        }
+    ],
+    "result": {
+        "item": "epicmoonmod:savage_tigermark_round",
+        "count": 1
+    }
+}

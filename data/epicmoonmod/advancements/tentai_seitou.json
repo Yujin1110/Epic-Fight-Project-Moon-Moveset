@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "epicmoonmod:tentai_seitou"
+    },
+    "title": {
+      "translate": "advancement.epicmoon.tentai_seitou.title"
+    },
+    "description": {
+      "translate": "advancement.epicmoon.tentai_seitou.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/nether_bricks.png"
+  },
+  "criteria": {
+    "obtain": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["epicmoonmod:tentai_seitou"]
+          }
+        ]
+      }
+    }
+  }
+}

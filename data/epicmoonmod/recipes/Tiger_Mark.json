@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " B ",
+        "BSB",
+        "CSC"
+    ],
+    "key":
+    {
+        "B": { "item" : "minecraft:nether_brick" },
+        "S": { "item" : "minecraft:gunpowder" },
+        "C": {"item": "minecraft:gold_ingot"}
+    },
+    "result":
+    {
+        "item" : "epicmoonmod:tigermark_round",
+        "count" : 1
+    }
+}
