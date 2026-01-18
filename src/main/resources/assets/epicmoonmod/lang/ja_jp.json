@@ -1,0 +1,22 @@
+{
+  "item.epicmoonmod.thumb_gunpowder": "親指製火薬",
+  "item.epicmoonmod.cartridge_case": "薬莢",
+  "item.epicmoonmod.tigermark_round": "虎標弾",
+  "item.epicmoonmod.savage_tigermark_round": "猛虎標弾",
+  "item.epicmoonmod.tentai_seitou": "天退星刀",
+  "creativetabs.epicmoon_tab": "EpicMoon",
+  "effect.epicmoonmod.unrelenting_spirit": "天退星",
+  "effect.epicmoonmod.unrelenting_spirit_sin": "シン(心)-天退星",
+  "tooltip.epicmoonmod.tstip": "「虎ァ捕まえる気ぃやったんなら！お前らも喰われる覚悟くらいしとくべきやったな！」",
+  "skill.epicmoonmod.ts.tooltip": "挿翅虎",
+  "skill.epicmoonmod.ts.tooltip1": "リロード/発射:",
+  "skill.epicmoonmod.ts.tooltip3": "特殊攻撃:",
+  "skill.epicmoonmod.ts.tooltip2": "弾丸を発射して素早く強力な斬撃を放ち、敵を一定回数斬るにつれて得られる光を使って特殊攻撃を行い、「天退星」と「シン(心)-天退星」を得る",
+  "sounds.epicmoonmod.shot": "Shot Sound",
+  "sounds.epicmoonmod.shot2": "Fire Sound2",
+  "sounds.epicmoonmod.shot3": "Fire Sound3",
+  "sounds.epicmoonmod.shot4": "Fire Sound4",
+  "sounds.epicmoonmod.reload1": "Reload Sound 1",
+  "advancement.epicmoon.tentai_seitou.title": "翼を持つが如き虎の咆哮",
+  "advancement.epicmoon.tentai_seitou.description": "天退星刀を手に入れる"
+}

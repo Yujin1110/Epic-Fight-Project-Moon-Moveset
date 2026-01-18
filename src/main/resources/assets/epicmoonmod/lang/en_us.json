@@ -1,0 +1,22 @@
+{
+  "item.epicmoonmod.thumb_gunpowder": "Thumb Gunpowder",
+  "item.epicmoonmod.cartridge_case": "Bullet Casing",
+  "item.epicmoonmod.tigermark_round": "Tigermark Round",
+  "item.epicmoonmod.savage_tigermark_round": "Savage Tigermark Round",
+  "item.epicmoonmod.tentai_seitou": "Tiantui Star's Sword",
+  "creativetabs.epicmoon_tab": "EpicMoon",
+  "effect.epicmoonmod.unrelenting_spirit": "Tiantui Star[天退星]",
+  "effect.epicmoonmod.unrelenting_spirit_sin": "Shin(心)-Tiantui Star[天退星]",
+  "tooltip.epicmoonmod.tstip": "Y'all don't go on huntin' tigers without preparin' yerselves to get chomped 'tween one of them jaws!",
+  "skill.epicmoonmod.ts.tooltip": "Chachihu[挿翅虎]",
+  "skill.epicmoonmod.ts.tooltip1": "Reload/Shot:",
+  "skill.epicmoonmod.ts.tooltip3": "Special Attack:",
+  "skill.epicmoonmod.ts.tooltip2": "In addition to firing bullets to slash the enemy more strongly and quickly,you can make a special attack and activate Tiantui Star[天退星] and Shin[心] by using the light obtained according to the number of times you slash the enemy",
+  "sounds.epicmoonmod.shot": "Fire Sound",
+  "sounds.epicmoonmod.shot2": "Fire Sound2",
+  "sounds.epicmoonmod.shot3": "Fire Sound3",
+  "sounds.epicmoonmod.shot4": "Fire Sound4",
+  "sounds.epicmoonmod.reload1": "Reload Sound 1",
+  "advancement.epicmoon.tentai_seitou.title": "The roar like a winged tiger",
+  "advancement.epicmoon.tentai_seitou.description": "Get Tiantui Star's Sword"
+}

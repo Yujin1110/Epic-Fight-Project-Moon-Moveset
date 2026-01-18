@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "epicmoonmod:item/tigermark_round_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "epicmoonmod:item/tigermark_round_2d"
+    }
+  }
+}

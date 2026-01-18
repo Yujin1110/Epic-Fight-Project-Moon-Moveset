@@ -1,0 +1,23 @@
+{
+	"trail_effects": [
+		{
+			"start_time": 0.0,
+			"end_time": 0.2,
+			"joint": "Tool_R",
+			"item_skin_hand": "main_hand"
+		},
+		{
+			"start_time": 0.2,
+			"end_time": 0.3,
+			"joint": "Tool_R",
+			"item_skin_hand": "main_hand",
+			"begin_pos": [0.0, 0.1, -0.2],
+			"end_pos": [0.0, 0.3, -2.1],
+			"lifetime": 10,
+			"interpolations": 2,
+			"color": [230, 230, 230],
+			"texture_path": "epicmoonmod:textures/particle/tiger2.png",
+			"particle_type": "epicfight:swing_trail"
+		}
+	]
+}

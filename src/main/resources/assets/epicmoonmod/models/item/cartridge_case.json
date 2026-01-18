@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "epicmoonmod:item/cartridge_case_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "epicmoonmod:item/cartridge_case_2d"
+    }
+  }
+}

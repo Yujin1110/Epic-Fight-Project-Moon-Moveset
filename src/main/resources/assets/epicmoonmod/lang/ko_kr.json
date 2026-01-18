@@ -1,0 +1,22 @@
+{
+  "item.epicmoonmod.thumb_gunpowder": "엄지 손가락 탄약",
+  "item.epicmoonmod.cartridge_case": "탄피",
+  "item.epicmoonmod.tigermark_round": "호표탄",
+  "item.epicmoonmod.savage_tigermark_round": "맹호표탄",
+  "item.epicmoonmod.tentai_seitou": "천퇴성도",
+  "creativetabs.epicmoon_tab": "EpicMoon",
+  "effect.epicmoonmod.unrelenting_spirit": "천퇴성[天退星]",
+  "effect.epicmoonmod.unrelenting_spirit_sin": "신(心)-천퇴성[天退星]",
+  "tooltip.epicmoonmod.tstip": "「호랭이를 잡을라 그랬으믄! 느그도 잡아먹힐 각오를 했어야제!」",
+  "skill.epicmoonmod.ts.tooltip": "삽시호[挿翅虎]",
+  "skill.epicmoonmod.ts.tooltip1": "리로드/발사:",
+  "skill.epicmoonmod.ts.tooltip3": "특수 공격:",
+  "skill.epicmoonmod.ts.tooltip2": "총알을 발사하여 적을 더욱 강력하고 빠르게 베는 것 외에도, 적을 베는 횟수에 따라 얻은 빛을 사용하여 특수 공격을 펼치고 불굴의 강기[剛氣]과 신[心]을 활성화할 수 있습니다.",
+  "sounds.epicmoonmod.shot": "발사음",
+  "sounds.epicmoonmod.shot2": "발사음2",
+  "sounds.epicmoonmod.shot3": "발사음3",
+  "sounds.epicmoonmod.shot4": "발사음4",
+  "sounds.epicmoonmod.reload1": "장전음",
+  "advancement.epicmoon.tentai_seitou.title": "날개를 가진 호랑이의 포효",
+  "advancement.epicmoon.tentai_seitou.description": "천퇴성도 얻기"
+}
