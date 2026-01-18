@@ -1,0 +1,10 @@
+{
+  "type": "epicmoonmod:tsskill",
+  "attributes": {
+    "one_hand": {
+      "impact": 3.1,
+      "armor_negation":20.0,
+      "max_strikes":3
+    }
+  }
+}
